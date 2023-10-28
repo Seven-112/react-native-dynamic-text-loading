@@ -59,11 +59,3 @@ import Loading from "react-native-dynamic-text-loading";
 | textStyle        |  style  |       default        | set your own style for text                                                                |
 | numberOfLines    | number  |          2           | RECOMMENDED! Do NOT change the number of lines, users cannot read long texts below 1.5 sec |
 
-
-## Author
-
-FreakyCoder, kurayogun@gmail.com
-
-## License
-
-React Native Dynamic Text Loading Library is available under the MIT license. See the LICENSE file for more info.
